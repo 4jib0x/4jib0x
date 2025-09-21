@@ -209,6 +209,11 @@ fun_facts:
   <img src="https://github.com/4jib0x/4jib0x/blob/main/assets/md/github%20stats2.gif?raw=true" alt="GitHub Stats GIF" width="250" />
 </p>
 
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4jib0x&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=FFF&bg_color=0D1117" />
+</p>
+
 <!-- Contribution Snake -->
 <div align="center">
   <img src="https://github.com/4jib0x/4jib0x/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
