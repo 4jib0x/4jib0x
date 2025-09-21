@@ -72,7 +72,7 @@ mission:
 
 fun_facts:
  - "Outside of coding, you'll find me gaming or watching movies."
- - "My ideal weekend involves a new Linux distro and a cup of black coffee."
+ - "My ideal weekend involves a new Linux distro and a cup of coffee."
  - "Deeply interested in tech hardware, Love old hardware and PC components. "
 ```
 
