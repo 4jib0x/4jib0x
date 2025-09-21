@@ -62,9 +62,9 @@ personal_info:
   education: "Faculty of Computer Science & Information "
 
   contact:
-    email 1: "abdouagiba@gmail.com"
-    email 2: "4jib0x@gmail.com"
-    discord : "4jib0x"
+    Primary email: "abdouagiba@gmail.com"
+    Side email: "4jib0x@gmail.com"
+    Discord : "4jib0x"
 
 mission:
   tagline: "Just a node in the digital verse."
