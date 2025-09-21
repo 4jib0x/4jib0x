@@ -56,12 +56,14 @@
 # about_me.yaml
 
 personal_info:
-  name: 𝟺𝚓𝚒𝚋𝟶𝚡 |  عَـجـِيـبـوكـس
+  name: "Abdulrahman Agiba"
+  alias: 𝟺𝚓𝚒𝚋𝟶𝚡 |  عَـجـِيـبـوكـس
   pronouns: He/Him
   education: "Faculty of Computer Science & Information "
 
   contact:
-    email: "4jib0x@gmail.com"
+    email 1: "abdouagiba@gmail.com"
+    email 2: "4jib0x@gmail.com"
     discord : "4jib0x"
 
 mission:
@@ -231,7 +233,13 @@ fun_facts:
 <div align="center">
   <p>
     <a href="https://abdou-agiba.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="mailto:4jib0x@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+ <a href="mailto:abdouagiba@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<br>
+<a href="mailto:4jib0x@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/4jib0x%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Side Gmail"/>
+</a>
     <a href="https://www.linkedin.com/in/abdulrahman-agiba-170341350/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://t.me/ABDOU_AGIBA" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
     <a href="https://twitter.com/4jib0x" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter    )"/></a>
